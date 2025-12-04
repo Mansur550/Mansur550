@@ -5,7 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif">
 
-https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansur550&label=Profile%20views&color=0e75b6&style=flat" alt="mansur550" /> </p>
 

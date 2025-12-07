@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NestJS(Backend),PostgreSQL (Database)**
 
-- 📫 How to reach me **mansurislam2288@gmail.com**
+- 📫 How to reach me **mansurislam59@gmail.com**
 
 
 

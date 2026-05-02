@@ -56,9 +56,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansur550&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansur550&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansur550&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🏆 Achievements
@@ -102,96 +105,3 @@
   <b>“Clean code, scalable systems, continuous learning.”</b>
 </p>
 
-<!-- HERO -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
-</p>
-
-<h1 align="center">Mansur Islam 👋</h1>
-<h3 align="center">Full Stack Developer | Backend & System-Focused Engineer</h3>
-
-<p align="center">
-  Building scalable web systems using modern backend and frontend technologies.
-</p>
-
----
-
-## 🧠 Engineering Focus
-
-- 🏗️ Backend development with **Node.js & NestJS**
-- ⚡ Full-stack applications using **Next.js + React**
-- 🗄️ Database design with **MySQL & PostgreSQL**
-- 🔐 Focus on clean architecture & scalable systems
-- 🚀 Currently building: **University Resource Sharing Platform**
-
----
-
-## ⚙️ Tech Stack
-
-### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📁 Featured Projects
-
-- 🍵 **Tea House Landing Page** – Responsive UI (HTML + Tailwind)
-- 🏫 **University Resource Platform** – Full-stack system (NestJS + DB)
-- 📦 More projects coming soon...
-
----
-
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansur550&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansur550&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansur550&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mansur550&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:mansurislam59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/mansur550">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>“Clean architecture. Scalable systems. Consistent learning.”</b>
-</p>

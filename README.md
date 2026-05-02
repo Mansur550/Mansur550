@@ -1,26 +1,47 @@
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mansur Islam</h1>
-<h3 align="center">A student of Computer Science and Engineering</h3>
+<h3 align="center">Computer Science & Engineering Student | Full Stack Developer</h3>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif"> -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mansur550&label=Profile%20views&color=0e75b6&style=flat" alt="mansur550" />
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansur550&label=Profile%20views&color=0e75b6&style=flat" alt="mansur550" /> </p>
+## 🚀 About Me
 
 - 🔭 I’m currently working on **University Resource Sharing Platform**
+- 🌱 I’m currently learning **NestJS (Backend) & PostgreSQL**
+- 💬 I love building real-world web applications
+- 📫 Reach me: **mansurislam59@gmail.com**
 
-- 🌱 I’m currently learning **NestJS(Backend),PostgreSQL (Database)**
+---
 
-- 📫 How to reach me **mansurislam59@gmail.com**
+## 🛠️ Languages and Tools
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansur550&show_icons=true&locale=en&layout=compact" alt="mansur550" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mansur550&show_icons=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansur550&show_icons=true&locale=en" alt="mansur550" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansur550&layout=compact" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansur550&" alt="mansur550" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansur550" />
+</p>

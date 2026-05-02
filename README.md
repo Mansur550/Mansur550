@@ -1,47 +1,95 @@
-[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://rishavchanda.io)
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Mansur Islam</h1>
-<h3 align="center">Computer Science & Engineering Student | Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Mansur Islam 👋</h1>
+<h3 align="center">Full Stack Developer | Computer Science & Engineering Student</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mansur550&label=Profile%20views&color=0e75b6&style=flat" alt="mansur550" />
+<p align="center">
+  Building scalable web applications with modern technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🔭 I’m currently working on **University Resource Sharing Platform**
-- 🌱 I’m currently learning **NestJS (Backend) & PostgreSQL**
-- 💬 I love building real-world web applications
-- 📫 Reach me: **mansurislam59@gmail.com**
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-</p>
+- 🎓 CSE Student focused on software engineering & backend systems
+- 🚀 Currently building: **University Resource Sharing Platform**
+- 🧩 Interested in scalable backend architecture & APIs
+- 🌱 Learning: **NestJS, PostgreSQL, System Design**
+- 📫 Contact: **mansurislam59@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Tech Stack
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mansur550&show_icons=true" />
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend & Database
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansur550&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansur550&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansur550&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansur550" />
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mansur550&theme=algolia&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+- 🍵 **Tea House Landing Page** – Modern responsive UI using Tailwind CSS
+- 🏫 **University Resource Platform** – Full-stack system (NestJS + PostgreSQL)
+- 📦 More coming soon...
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:mansurislam59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/mansur550">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Clean code, scalable systems, continuous learning.”</b>
 </p>

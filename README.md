@@ -15,8 +15,7 @@
 ## 🧠 About Me
 
 - 🎓 CSE Student focused on software engineering & backend systems
-- 🚀 Currently building: **University Resource Sharing Platform**
-- 🧩 Interested in scalable backend architecture & APIs
+- 🧩 Interested in scalable frontend, backend architecture & APIs, AI, ML
 - 🌱 Learning: **NestJS, PostgreSQL, System Design**
 - 📫 Contact: **mansurislam59@gmail.com**
 

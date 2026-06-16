@@ -18,6 +18,7 @@
 - 🧩 Interested in scalable frontend, backend architecture & APIs, AI, ML
 - 🌱 Learning: **NestJS, PostgreSQL, System Design**
 - 📫 Contact: **mansurislam59@gmail.com**
+- Portfolio: https://next-js-portfolio-rjk7.vercel.app/
 
 ---
 
